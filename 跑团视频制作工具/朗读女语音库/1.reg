@@ -1,0 +1,64 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_KangkangM]
+@="Microsoft Kangkang Mobile - Chinese (Simplified, PRC)"
+"LangDataPath"="%windir%\\Speech_OneCore\\Engines\\TTS\\zh-CN\\MSTTSLoczhCN.dat"
+"VoicePath"="%windir%\\Speech_OneCore\\Engines\\TTS\\zh-CN\\M2052Kangkang"
+"804"="Microsoft Kangkang Mobile - Chinese (Simplified, PRC)"
+"CLSID"="{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_KangkangM\Attributes]
+"Version"="11.0"
+"Language"="804"
+"Gender"="Male"
+"Age"="Adult"
+"DataVersion"="11.0.2013.1022"
+"SharedPronunciation"=""
+"Name"="Microsoft Kangkang Mobile"
+"Vendor"="Microsoft"
+"SampleText"="您已选择 %1 作为默认语音"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_YaoyaoM]
+@="Microsoft Yaoyao Mobile - Chinese (Simplified, PRC)"
+"LangDataPath"="%windir%\\Speech_OneCore\\Engines\\TTS\\zh-CN\\MSTTSLoczhCN.dat"
+"VoicePath"="%windir%\\Speech_OneCore\\Engines\\TTS\\zh-CN\\M2052Yaoyao"
+"804"="Microsoft Yaoyao Mobile - Chinese (Simplified, PRC)"
+"CLSID"="{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_YaoyaoM\Attributes]
+"Version"="11.0"
+"Language"="804"
+"Gender"="Female"
+"Age"="Adult"
+"DataVersion"="11.0.2013.1022"
+"SharedPronunciation"=""
+"Name"="Microsoft Yaoyao Mobile"
+"Vendor"="Microsoft"
+"SampleText"="您已选择 %1 作为默认语音"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_HongyuM]
+@="Microsoft Cortana - China"
+"804"="Microsoft Cortana - China"
+"CLSID"="{179F3D56-1B0B-42B2-A962-59B7EF59FE1B}"
+"LangDataPath"=hex(2):25,00,77,00,69,00,6e,00,64,00,69,00,72,00,25,00,5c,00,53,\
+  00,70,00,65,00,65,00,63,00,68,00,5f,00,4f,00,6e,00,65,00,43,00,6f,00,72,00,\
+  65,00,5c,00,45,00,6e,00,67,00,69,00,6e,00,65,00,73,00,5c,00,54,00,54,00,53,\
+  00,5c,00,7a,00,68,00,2d,00,43,00,4e,00,5c,00,4d,00,53,00,54,00,54,00,53,00,\
+  4c,00,6f,00,63,00,7a,00,68,00,43,00,4e,00,2e,00,64,00,61,00,74,00,00,00
+"VoicePath"=hex(2):25,00,77,00,69,00,6e,00,64,00,69,00,72,00,25,00,5c,00,53,00,\
+  70,00,65,00,65,00,63,00,68,00,5f,00,4f,00,6e,00,65,00,43,00,6f,00,72,00,65,\
+  00,5c,00,45,00,6e,00,67,00,69,00,6e,00,65,00,73,00,5c,00,54,00,54,00,53,00,\
+  5c,00,7a,00,68,00,2d,00,43,00,4e,00,5c,00,4d,00,32,00,30,00,35,00,32,00,48,\
+  00,6f,00,6e,00,67,00,79,00,75,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\SPEECH\Voices\Tokens\MSTTS_V110_zhCN_HongyuM\Attributes]
+"Age"="Adult"
+"DataVersion"="11.0.2013.1022"
+"Gender"="Female"
+"Language"="804"
+"Name"="Microsoft Hongyu Mobile"
+"SharedPronunciation"=""
+"Vendor"="Microsoft"
+"Version"="11.0"
