@@ -1,7 +1,7 @@
 import os
 
-#打开输入文件，整理后的log。1.txt需要是utf-8编码并且和自动脚本for renpy.py放在一个目录下面
-fobj = open('1.txt',mode='r',encoding='utf-8')
+#打开输入文件，整理后的log。log.txt需要是utf-8编码并且和自动脚本for renpy.py放在一个目录下面
+fobj = open('log.txt',mode='r',encoding='utf-8')
 #创建用于复制进renpy的输出文件
 file_rpy = open('rpy.txt',mode='w',encoding='utf-8')
 
@@ -19,7 +19,7 @@ char_y=["800","800", "800", "800", "800", "800"]
 location_list=["left","right", "right", "right", "right", "right"]
 
 #骰子的名字。注意骰子的名字同样应该在char_list出现
-diec_tag="【骰子姬】"
+dice_tag="【骰子姬】"
 
 #是否自动处理骰子。1为自动，0为直接显示投掷发言那一行
 dice_flag=1
@@ -207,7 +207,7 @@ for l in fobj:
 
 #####dice
         if line!=char_tag:#which means line is a content line
-            if char_tag==diec_tag:#这个标识后面跟着的一行是投掷内容，不需要挂语音
+            if char_tag==dice_tag:#这个标识后面跟着的一行是投掷内容，不需要挂语音
                 #####first, turn off any halves
                 if dice_flag==1:
                     file_rpy.write("    hide " + previous_char_tag + "\n\n")
