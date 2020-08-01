@@ -1,7 +1,0 @@
-<中度姐 女声 普通话><_/1>100<_/2>0<_/3>0<_/4></中度姐 女声 普通话>
-<英度姐 女声 普通话><_/1>100<_/2>0<_/3>0<_/4></英度姐 女声 普通话>
-<中Microsoft Huihui Desktop - Chinese (Simplified)><_/1>100<_/2>0<_/3>0<_/4></中Microsoft Huihui Desktop - Chinese (Simplified)>
-<中Microsoft Kangkang Mobile - Chinese (Simplified, PRC)><_/1>100<_/2>0<_/3>0<_/4></中Microsoft Kangkang Mobile - Chinese (Simplified, PRC)>
-<中VW Liang><_/1>100<_/2>0<_/3>0<_/4></中VW Liang>
-<中度哥 男声 普通话><_/1>100<_/2>0<_/3>0<_/4></中度哥 男声 普通话>
-<中度弟 男声 普通话><_/1>100<_/2>0<_/3>0<_/4></中度弟 男声 普通话>
