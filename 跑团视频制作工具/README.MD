@@ -310,9 +310,11 @@ scene bg room
 
 如果有疑问欢迎在评论区（指B站评论区）留言，祝各位都能将自己有趣的跑团经历做成视频，分享给别人。
 
+**使用此方法制作的跑团视频：**https://www.bilibili.com/video/BV1sa4y1Y755
+
 **别人的Renpy跑团视频制作教程：**https://www.bilibili.com/video/BV1KT4y157Xr
 
-**使用此方法制作的跑团视频：**https://www.bilibili.com/video/BV1sa4y1Y755
+**139的跑团视频制作工具推荐：**https://www.bilibili.com/read/cv6348879
 
 #### 此方法的优点
 
@@ -379,3 +381,9 @@ scene bg room
 **缺点：**预加载资源导致开启缓慢、内置字体导致无法自定义、在线转语音无缓存导致调试困难。
 
 **相关视频：**https://www.bilibili.com/video/BV1Ek4y1r7vw
+
+##### 一键式python脚本
+
+有点像本方法的升级版，优点和缺点更加突出了。
+
+**相关视频：**https://www.bilibili.com/video/BV1T5411e78j

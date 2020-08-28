@@ -14,5 +14,5 @@ image 【】_resized = im.Scale("【】.png", 500,800)
 label start:
 
     scene bg room
-
+    
     return
