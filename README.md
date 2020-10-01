@@ -1,8 +1,10 @@
 # TRPGrepo
 [Spiral's Blog](https://blog.maddestroyer.xyz)
+[QQ跑团记录着色器](http://trpg.maddestroyer.xyz/LogPainter)
 
-[TRPG Engine](https://trpg.moonrailgun.com/)
+[菠萝](https://boluo.chat/)
 [猫爷TRPG](https://maoyetrpg.com)
+[TRPG Engine](https://trpg.moonrailgun.com/)
 
 [66TRPG](https://66trpg.com)
 [百度跑团吧](https://tieba.baidu.com/f?kw=%C5%DC%CD%C5)
@@ -12,7 +14,6 @@
 
 [Dice! 论坛](https://forum.kokona.tech/)
 [SinaNya](https://sinanya.com/)
-[QQ跑团记录着色器](http://trpg.maddestroyer.xyz/LogPainter)
 [私骰分享站](https://dicer.club)
 
 仓库中能够解压的文件已全部解压，剩余的压缩文件基本上都为一个整体 
@@ -178,3 +179,39 @@ COC空白卡更新至200601
 README.MD新增部分内容
 
 新增自动跑团视频懒人包
+
+### 20201001
+
+国庆/中秋快乐。
+
+~~上个月忙于学业，提出的新内容并未实践。
+
+~~本月尽量。~~
+
+#### 无限流规则书更新
+
+无限恐怖2.XX更新至2.34国庆特别版
+
+克森团更新至1.0.6
+
+无限口述游戏更新至0.36测试版
+
+无限恐怖2.5R更新至1063
+
+不太正常的规则书更新至2.2.3
+
+无限恐怖FX更新至093
+
+深空无限更新至1.1.2
+
+轮回更新至4.21
+
+起始之地更新至5.05
+
+曲面世界更新至α13
+
+轮回游戏更新至3.1.9
+
+新增肿胀塔罗规则书（如果这玩意儿能算规则的话）
+
+*殆尽世界和诸界试炼者情况照旧*
