@@ -1,6 +1,5 @@
 # TRPGrepo
 [Spiral's Blog](https://blog.maddestroyer.xyz)
-[QQ跑团记录着色器](http://trpg.maddestroyer.xyz/LogPainter)
 
 [菠萝](https://boluo.chat/)
 [猫爷TRPG](https://maoyetrpg.com)
@@ -215,3 +214,9 @@ README.MD新增部分内容
 新增肿胀塔罗规则书（如果这玩意儿能算规则的话）
 
 *殆尽世界和诸界试炼者情况照旧*
+
+### 20201104
+
+~~当我前两个月没说过关于新内容的那些话。~~
+
+~~很抱歉，本月和下月都摸了~~
