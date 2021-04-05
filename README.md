@@ -1,27 +1,29 @@
 # TRPGrepo
-[Spiral's Blog](https://blog.maddestroyer.xyz)
 
-[菠萝](https://boluo.chat/)
+[ENC-TRPG](https://trpg.maddestroyer.xyz)
+
+[菠萝](https://boluo.chat)
+[TRPG Engine](https://trpg.moonrailgun.com)
 [猫爷TRPG](https://maoyetrpg.com)
-[TRPG Engine](https://trpg.moonrailgun.com/)
 
-[66TRPG](https://66trpg.com)
 [百度跑团吧](https://tieba.baidu.com/f?kw=%C5%DC%CD%C5)
-[百度trpg吧](https://tieba.baidu.com/f?kw=trpg)
-[魔都](https://www.cnmods.net)
+[66TRPG](https://66trpg.com)
 [純美蘋果園](http://www.goddessfantasy.net)
 
-[Dice! 论坛](https://forum.kokona.tech/)
-[SinaNya](https://sinanya.com/)
+[Diceho](http://dicecho.com)
+[魔都](https://www.cnmods.net)
+
+[Dice! 论坛](https://forum.kokona.tech)
+[SinaNya](https://sinanya.com)
 [私骰分享站](https://dicer.club)
 
 仓库中能够解压的文件已全部解压，剩余的压缩文件基本上都为一个整体 
 
 希望有一天能够成为收录最丰富的中文TRPG仓库
 
-[COC](COC/)：克苏鲁的呼唤7/6th & Mods       
+[COC](COC/)：克苏鲁的呼唤 7/6th
 
-[其他规则](其他规则/)：收录除COC和无限流以外的规则书（待补充）   
+[其他规则](其他规则/)：收录除 COC 和无限流以外的规则书（待补充）   
 
 [无限流](无限流/)：无限流规则书，当然前提是有规则书才收录（笑）             
 
@@ -29,7 +31,7 @@
 
 ## 更新日志
 
-今后大概是每月初更新（如果月初没有更新请耐心等待，最迟月中更新）
+今后大概是每月初更新~~（如果月初没有更新那大概率这个月就没有了）~~
 
 <details>
 <summary>展开查看</summary>
@@ -283,5 +285,35 @@ README.MD新增部分内容
 变量之轮更新至1.1.1
 
 轮回游戏更新至3.3.1
+
+### 210405
+
+清明假期终于有空把这一版赶出来了。
+
+~~很抱歉上个月无故停更。~~
+
+#### 无限流规则书更新
+
+**移除所有亲友团规则**
+
+不太正常的规则书更新至2.3.5
+
+无限恐怖FX更新至100
+
+变量之轮更新至1.2.0
+
+轮回游戏更新至3.4.0
+
+起始之地更新至6.03
+
+轮回更新至4.4
+
+模因宇宙更新至1.5
+
+深空无限更新至1.1.5
+
+无限の世界更新至0.57
+
+无限恐怖2.XX更新至2.35
 
 </details>
